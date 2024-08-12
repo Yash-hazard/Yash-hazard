@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and web dev
 - 🌱 I’m currently learning web devlopment both front/back
 - 💞️ I’m looking to collaborate with anyone
-- 📫 How to reach me: dm me on insta :: h4zz4rd.exe
+- 📫 How to reach me: yashanand2105@gmail.com
 
 <!---
 Yash-hazard/Yash-hazard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
