@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yash
 - 👀 I’m interested in programming and web dev
-- 🌱 I’m currently learning web devlopment both front/back
+- 🌱 I’m full stack web dev
 - 💞️ I’m looking to collaborate with anyone
 - 📫 How to reach me: yashanand2105@gmail.com
 
